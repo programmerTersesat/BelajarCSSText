@@ -1,0 +1,53 @@
+body{
+    color: blue;
+}
+
+h1{
+    color: orange;
+    text-align: right;
+}
+
+p{
+    text-align-last: left;
+
+}
+
+span{
+    vertical-align: middle;
+    font-size: 10px;
+}
+
+.line{
+    text-decoration-line: underline overline;
+    text-decoration-color: brown;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 10px;
+}
+
+.line2{
+    text-decoration: dotted underline green 10px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.lowercase{
+    text-transform: lowercase;
+}
+
+.capitalized{
+    text-transform: capitalize;
+}
+
+.alinea{
+    text-indent: 50px;
+    letter-spacing: 2px;
+    line-height: 2;
+    word-spacing: 10px;
+}
+
+h2{
+    text-shadow: 2px 3px 5px black;
+    color: white;
+}
